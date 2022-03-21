@@ -1,24 +1,14 @@
 # Assignment Name
 
-SOFT2412 Group project Assignment 2 – Scrum Software Development (2021)
+Assignment 2 – Scrum Software Development (2021)
 
 ## Project Name
 
 Development of a Movie Ticket Booking Management System for Fancy Cinemas
 
-## Group Members
-
- - Imran Issa
- - Matthew Karko
- - Alexander Marrapese
- - William Qiu
- - Raymond Ton
-
-
 # Description
 
 Use Git or check-out with SVN using this URL:
-[Booking System for Fancy Cinemas](https://github.sydney.edu.au/SOFT2412-2021S2/Assignment__2.git)
 
 The code is written in Java, spread across six files:
  - Account.java
