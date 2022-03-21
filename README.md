@@ -90,4 +90,4 @@ If there are errors, please raise the issue immediately with the development tea
 
 Pull requests are welcome. However, pushing any commits must be first discussed with the group members. This is a private project, thus it is required to raise any concerns and/or opportunities with the team regarding the application. Once you have been granted approval for changes, be sure to update test cases appropriately.
 
-Distribution of this project is strictly prohibited.
+Distribution and use of this project is strictly prohibited.
